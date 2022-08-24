@@ -108,10 +108,7 @@
 | 문자열 집합 | https://www.acmicpc.net/problem/14425 | S3 | O |
 | 곱셈 | https://www.acmicpc.net/problem/1629 | S1 | X |
 | 정수 삼각형 | https://www.acmicpc.net/problem/1932 | S1 | O |
-
-
 | 희의실배정2, 3 | https://www.acmicpc.net/problem/19621 | S3, S2 | O |
-
 | 배열 돌리기 1 | https://www.acmicpc.net/problem/16926 | S1 | O |
 | 안정적인 문자열 | https://www.acmicpc.net/problem/4889 | S1 | O |
 | 추월 | https://www.acmicpc.net/problem/2002 | S1 | O |
@@ -156,7 +153,6 @@
 | 평범한 배낭 | https://www.acmicpc.net/problem/12865 | G5 | O |
 | 벼락치기 | https://www.acmicpc.net/problem/14728 | G5 | O |
 | 수도배관공사 | https://www.acmicpc.net/problem/2073 | G4 | X |
-
 | 뱀 | https://www.acmicpc.net/problem/3190 | G5 | O |
 | 로봇 청소기 | https://www.acmicpc.net/problem/14503 | G5 | O |
 | 최단경로 | https://www.acmicpc.net/problem/1753 | G5 | O |
@@ -175,7 +171,6 @@
 | 다각형의 면적 | https://www.acmicpc.net/problem/2166 | G5 | X |
 | 주사위 | https://www.acmicpc.net/problem/1041 | G5 | O |
 | 단어 수학 | https://www.acmicpc.net/problem/1339 | G4 | X |
-
 | 물통 | https://www.acmicpc.net/problem/2251 | G5 | O |
 | 알파벳 | https://www.acmicpc.net/problem/1987 | G4 | O |
 | 소문난 칠공주 | https://www.acmicpc.net/problem/1941 | G3 | O |
@@ -221,10 +216,7 @@
 | 행성 터널 | https://www.acmicpc.net/problem/2887 | G1 | O |
 | 최소비용 구하기 | https://www.acmicpc.net/problem/1916 | G5 | O |
 | 후위 표기식 | https://www.acmicpc.net/problem/1918 | G3 | X |
-
 | 내려가기 | https://www.acmicpc.net/problem/2096 | G4 | O |
-
-
 | 별 찍기 - 11 | https://www.acmicpc.net/problem/2448 | G4 | O |
 | 트리 | https://www.acmicpc.net/problem/4256 | G3 | X |
 | 트리의 순회 | https://www.acmicpc.net/problem/2263 | G2 | X |

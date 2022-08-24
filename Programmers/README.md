@@ -1,4 +1,6 @@
 ## LV2
+| 문제 | 링크 | Lv  | Solved? |
+| --- | --- | --- | --- |
 | 거리두기 확인하기 | https://programmers.co.kr/learn/courses/30/lessons/81302 | LV2 | X |
 | n진수 게임 | https://programmers.co.kr/learn/courses/30/lessons/17687 | LV2 | O |
 | 소수찾기 | https://programmers.co.kr/learn/courses/30/lessons/42839 | LV2 | O |
@@ -19,7 +21,6 @@
 | 메뉴 리뉴얼 | https://programmers.co.kr/learn/courses/30/lessons/72411 | LV2 | O |
 | 수식 최대화 | https://programmers.co.kr/learn/courses/30/lessons/67257 | LV2 | O |
 | 괄호변환 | https://programmers.co.kr/learn/courses/30/lessons/60058 | LV2 | O |
-
 | 튜플 | https://programmers.co.kr/learn/courses/30/lessons/64065 | LV2 | O |
 | 위장 | https://programmers.co.kr/learn/courses/30/lessons/42578 | LV2 | O |
 | 올바른 괄호 | https://programmers.co.kr/learn/courses/30/lessons/12909 | LV2 | O |
@@ -36,6 +37,8 @@
 
 
 ## LV3
+| 문제 | 링크 | Lv  | Solved? |
+| --- | --- | --- | --- |
 | 2*n 타일링 | https://programmers.co.kr/learn/courses/30/lessons/12900 | L3 | O |
 | 징검다리 건너기 | https://programmers.co.kr/learn/courses/30/lessons/64062 | L3 | X |
 | 디스크 컨트롤러 | https://programmers.co.kr/learn/courses/30/lessons/42627 | LV3 | | 우선순위 큐 |
